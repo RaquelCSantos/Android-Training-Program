@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Homework1_Class1</string>
+    <string name="text1">Hello World! &#x1F44B;</string> <!--  &#128075;-->
+</resources>

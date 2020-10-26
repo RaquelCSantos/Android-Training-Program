@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TPC1_Aula1</string>
+    <string name="text1">Olá Mundo! &#x1F44B;</string> <!--  &#128075;-->
+</resources>
