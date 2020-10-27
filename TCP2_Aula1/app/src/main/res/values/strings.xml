@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TCP2_Aula1</string>
+    <string name="meetLoula">Meet Loula &#x1f436;</string>
+    <string name="textIntro">Favorite things include naps, treats and camping trips.</string>
+    <string name="dog">dog</string>
 </resources>
