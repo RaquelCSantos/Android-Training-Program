@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ex3_Aula2</string>
+    <string name="hello">Olá Mundo! 👋</string>
+    <string name="buttonAlert">Alerta</string>
+    <string name="buttonSnackBar">SnackBar</string>
+    <string name="dialogTitle">Bobi</string>
+    <string name="dialogMessage">Mas que cães tão bonitos</string>
+    <string name="tks">Obrigada</string>
+</resources>

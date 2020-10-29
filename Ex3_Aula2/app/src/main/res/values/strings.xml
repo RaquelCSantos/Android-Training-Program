@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex3_Class2</string>
+    <string name="hello">Hello World! 👋</string>
+    <string name="buttonAlert">Alert</string>
+    <string name="buttonSnackBar">SnackBar</string>
+    <string name="dialogTitle">Bobi</string>
+    <string name="dialogMessage">What beautiful dogs</string>
+    <string name="tks">Thanks</string>
+</resources>
