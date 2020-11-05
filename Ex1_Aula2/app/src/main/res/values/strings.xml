@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Ex3_Class2</string>
-    <string name="hello">Hello World! 👋</string>
-    <string name="buttonAlert">Alert</string>
-    <string name="buttonSnackBar">SnackBar</string>
+    <string name="buttonAlert">Show dialog</string>
+    <string name="buttonOpenCamera">Open Camera</string>
+    <string name="buttonOpenDetails">Open Details</string>
     <string name="dialogTitle">Bobi</string>
     <string name="dialogMessage">What beautiful dogs</string>
     <string name="tks">Thanks</string>
+    <string name="countDown">Count Down</string>
 </resources>

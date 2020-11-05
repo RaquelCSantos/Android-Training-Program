@@ -2,9 +2,11 @@
 <resources>
     <string name="app_name">Ex3_Aula2</string>
     <string name="hello">Olá Mundo! 👋</string>
-    <string name="buttonAlert">Alerta</string>
-    <string name="buttonSnackBar">SnackBar</string>
+    <string name="buttonAlert">Mostra mensagem</string>
     <string name="dialogTitle">Bobi</string>
     <string name="dialogMessage">Mas que cães tão bonitos</string>
     <string name="tks">Obrigada</string>
+    <string name="countDown">Contagem decrescente</string>
+    <string name="buttonOpenCamera">Abrir Câmara</string>
+    <string name="buttonOpenDetails">Abrir Detalhes</string>
 </resources>
