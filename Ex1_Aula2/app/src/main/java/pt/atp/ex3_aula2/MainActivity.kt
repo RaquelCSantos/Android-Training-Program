@@ -1,6 +1,7 @@
 package pt.atp.ex3_aula2
 
 import android.app.AlertDialog
+import android.content.DialogInterface
 import android.content.Intent
 import android.graphics.Bitmap
 import android.graphics.Color
@@ -35,25 +36,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         findViewById<Button>(R.id.buttonAlert).setOnClickListener {
-            val builder = AlertDialog.Builder(this)
-            //set title for alert dialog
-            builder.setTitle(R.string.dialogTitle)
-            //set message for alert dialog
-            builder.setMessage(R.string.dialogMessage)
-
-            //performing positive action
-            builder.setPositiveButton("Ok"){dialogInterface, which ->
-                Toast.makeText(applicationContext,"clicked ok",Toast.LENGTH_LONG).show()
-            }
-            //performing cancel action
-            builder.setNegativeButton("Cancel"){dialogInterface , which ->
-                Toast.makeText(applicationContext,"clicked cancel\n operation cancel",Toast.LENGTH_LONG).show()
-            }
-            // Create the AlertDialog
-            val alertDialog: AlertDialog = builder.create()
-            // Set other dialog properties
-            alertDialog.setCancelable(false)
-            alertDialog.show()
+          showAppDialog()
         }
 
     }
@@ -84,6 +67,31 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, DetailsActivity::class.java)
         startActivity(intent)
     }
+
+    private fun showAppDialog(){
+        val builder = AlertDialog.Builder(this)
+        //set title for alert dialog
+        builder.setTitle(R.string.dialogTitle)
+        //set message for alert dialog
+        builder.setMessage(R.string.dialogMessage)
+
+
+        //performing positive action
+        builder.setPositiveButton(R.string.positiveButton){dialogInterface, which ->
+            Toast.makeText(this@MainActivity,R.string.selectedOk,Toast.LENGTH_LONG).show()
+        }
+        //performing cancel action
+        builder.setNegativeButton(R.string.negativeButton){dialogInterface , which ->
+            Toast.makeText(this@MainActivity,R.string.selectedCancel,Toast.LENGTH_LONG).show()
+        }
+        // Create the AlertDialog
+        //val alertDialog: AlertDialog = builder.create()
+        // Set other dialog properties
+        //alertDialog.setCancelable(false)
+        //alertDialog.show()
+        builder.create().show()
+    }
+
     private fun startCountDownTimer(time:Long){
         timer = object: CountDownTimer(time, 1000){
             override fun onTick(millisUntilFinished: Long) {

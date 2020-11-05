@@ -7,4 +7,9 @@
     <string name="dialogMessage">What beautiful dogs</string>
     <string name="tks">Thanks</string>
     <string name="countDown">Count Down</string>
+    <string name="selectedOk">You selected Ok</string>
+    <string name="selectedCancel">You selected Cancel</string>
+    <string name="detailsText">Details Text</string>
+    <string name="positiveButton">Ok</string>
+    <string name="negativeButton">Cancel</string>
 </resources>
