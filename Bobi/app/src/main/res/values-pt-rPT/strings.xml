@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Ex3_Aula2</string>
+    <string name="app_name">Bobi</string>
     <string name="buttonAlert">Mostra mensagem</string>
     <string name="dialogTitle">Bobi</string>
     <string name="dialogMessage">Mas que cães tão bonitos</string>
@@ -15,4 +15,9 @@
     <string name="negativeButton">Cancelar</string>
     <string name="buttonSnackBar">Mostra SnackBar</string>
     <string name="selectedTks">Tu selecionaste Obrigada</string>
+    <string name="hint_username">Introduz o teu nome de utilizador aqui</string>
+    <string name="hint_password">Introduz a tua palavra-chave aqui</string>
+    <string name="action_authenticate">Autenticar</string>
+    <string name="save_credentials">Guardar os dados</string>
+    <string name="error_invalid_credentials">Credenciais inválidas</string>
 </resources>

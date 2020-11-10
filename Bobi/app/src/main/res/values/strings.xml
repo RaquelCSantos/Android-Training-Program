@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ex3_Class2</string>
+    <string name="app_name">Bobi</string>
     <string name="buttonAlert">Show dialog</string>
     <string name="buttonOpenCamera">Open Camera</string>
     <string name="buttonOpenDetails">Open Details</string>
@@ -14,4 +14,9 @@
     <string name="positiveButton">Ok</string>
     <string name="negativeButton">Cancel</string>
     <string name="buttonSnackBar">Show SnackBar</string>
+    <string name="hint_username">Your username goes here</string>
+    <string name="hint_password">Your password goes here</string>
+    <string name="save_credentials">Save Credentials</string>
+    <string name="action_authenticate">Authenticate</string>
+    <string name="error_invalid_credentials">Invalid Credentials</string>
 </resources>
