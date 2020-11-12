@@ -1,0 +1,2 @@
+pt/atp/ex3_aula2/BuildConfig.java
+ pt.atp.ex3_aula2.BuildConfig
