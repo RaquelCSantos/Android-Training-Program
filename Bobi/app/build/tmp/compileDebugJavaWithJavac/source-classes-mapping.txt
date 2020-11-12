@@ -1,0 +1,2 @@
+pt/atp/bobi/BuildConfig.java
+ pt.atp.bobi.BuildConfig
