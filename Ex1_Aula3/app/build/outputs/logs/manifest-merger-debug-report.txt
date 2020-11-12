@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\a8f3ef74a3a6b0c090efeb50aba42b3a\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8fcaf3e7a412c559bc02fc66caab7662\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\74e691dfa33315409490d89b7270dc9c\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\39382bae5113f155e1aee98ba8c5dcd4\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9fffbed6ffa962a88eb0cb8e256f5274\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\4213f949cf768c8d521f117ca4d3b13b\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\896b190e53425a7a1cc3ee23bf4e3fcd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\c5dcc160a9303a073fdbcf2f4e4e9f9f\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8448208a2b2d469e20bc603d7bb83650\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\1a29ca9e34f697cbee15271747188464\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\b96a711dd56674da767d1b6cdbb6c8c5\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\991313db93e69b538be15d3eb932ace4\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\81b274069356f96ab7d5c2e2e13bf1b2\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\03786c33e74738ea953c6a353b51b74c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\2416e12b636234f059d653301d51c2a8\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\5f6fa85a79b5acd9c254e9811548485d\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\b4ab0db884e1aff98e46ee040d9db027\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\80bb011650aac5452efa6d1fcdab7fb5\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\28baab75c8160a126be95115f7119116\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\afce9cae55a453ca00dc3cd43e2be184\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\08a82112e57027dc764f8a57685119ba\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\553d1a70f9a46076cf8add20f0be992e\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9a0953bf690929d31c2ff4c3139aa834\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\55f1c554ff2c018a24a9f0f2945c5a0f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\7edb7b372b1065d55a9e036564a02ae6\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9510ff3dc62e0db2e1cbdde9a471d7d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\12ad8c97ddacf629ac0cdd2ef1b34a2c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8cdaa82a4283de65b0384e1572224cbb\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\0641606da2593114a969563a59b50e3f\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8fcaf3e7a412c559bc02fc66caab7662\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8fcaf3e7a412c559bc02fc66caab7662\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\74e691dfa33315409490d89b7270dc9c\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\74e691dfa33315409490d89b7270dc9c\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\80bb011650aac5452efa6d1fcdab7fb5\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\80bb011650aac5452efa6d1fcdab7fb5\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\08a82112e57027dc764f8a57685119ba\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\08a82112e57027dc764f8a57685119ba\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\80bb011650aac5452efa6d1fcdab7fb5\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:11:9-42
+activity#pt.atp.ex1aula3.LoginActivity
+ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:theme
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:14:19-62
+	android:name
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:13:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:19:27-74
+activity#pt.atp.ex1aula3.MainActivity
+ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:23:9-65
+	android:name
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:23:19-62
+activity#pt.atp.ex1aula3.DetailsActivity
+ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml:24:19-65
+uses-sdk
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\a8f3ef74a3a6b0c090efeb50aba42b3a\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\a8f3ef74a3a6b0c090efeb50aba42b3a\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8fcaf3e7a412c559bc02fc66caab7662\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8fcaf3e7a412c559bc02fc66caab7662\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\74e691dfa33315409490d89b7270dc9c\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\74e691dfa33315409490d89b7270dc9c\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\39382bae5113f155e1aee98ba8c5dcd4\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\39382bae5113f155e1aee98ba8c5dcd4\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9fffbed6ffa962a88eb0cb8e256f5274\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9fffbed6ffa962a88eb0cb8e256f5274\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\4213f949cf768c8d521f117ca4d3b13b\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\4213f949cf768c8d521f117ca4d3b13b\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\896b190e53425a7a1cc3ee23bf4e3fcd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\896b190e53425a7a1cc3ee23bf4e3fcd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\c5dcc160a9303a073fdbcf2f4e4e9f9f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\c5dcc160a9303a073fdbcf2f4e4e9f9f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8448208a2b2d469e20bc603d7bb83650\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8448208a2b2d469e20bc603d7bb83650\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\1a29ca9e34f697cbee15271747188464\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\1a29ca9e34f697cbee15271747188464\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\b96a711dd56674da767d1b6cdbb6c8c5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\b96a711dd56674da767d1b6cdbb6c8c5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\991313db93e69b538be15d3eb932ace4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\991313db93e69b538be15d3eb932ace4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\81b274069356f96ab7d5c2e2e13bf1b2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\81b274069356f96ab7d5c2e2e13bf1b2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\03786c33e74738ea953c6a353b51b74c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\03786c33e74738ea953c6a353b51b74c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\2416e12b636234f059d653301d51c2a8\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\2416e12b636234f059d653301d51c2a8\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\5f6fa85a79b5acd9c254e9811548485d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\5f6fa85a79b5acd9c254e9811548485d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\b4ab0db884e1aff98e46ee040d9db027\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\b4ab0db884e1aff98e46ee040d9db027\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\80bb011650aac5452efa6d1fcdab7fb5\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\80bb011650aac5452efa6d1fcdab7fb5\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\28baab75c8160a126be95115f7119116\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\28baab75c8160a126be95115f7119116\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\afce9cae55a453ca00dc3cd43e2be184\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\afce9cae55a453ca00dc3cd43e2be184\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\08a82112e57027dc764f8a57685119ba\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\08a82112e57027dc764f8a57685119ba\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\553d1a70f9a46076cf8add20f0be992e\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\553d1a70f9a46076cf8add20f0be992e\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9a0953bf690929d31c2ff4c3139aa834\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9a0953bf690929d31c2ff4c3139aa834\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\55f1c554ff2c018a24a9f0f2945c5a0f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\55f1c554ff2c018a24a9f0f2945c5a0f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\7edb7b372b1065d55a9e036564a02ae6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\7edb7b372b1065d55a9e036564a02ae6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9510ff3dc62e0db2e1cbdde9a471d7d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\9510ff3dc62e0db2e1cbdde9a471d7d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\12ad8c97ddacf629ac0cdd2ef1b34a2c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\12ad8c97ddacf629ac0cdd2ef1b34a2c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8cdaa82a4283de65b0384e1572224cbb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\8cdaa82a4283de65b0384e1572224cbb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\0641606da2593114a969563a59b50e3f\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Raquel Santos\.gradle\caches\transforms-2\files-2.1\0641606da2593114a969563a59b50e3f\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raquel Santos\Desktop\Ex1_Aula3\app\src\main\AndroidManifest.xml
