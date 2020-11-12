@@ -9,7 +9,7 @@
     <string name="countDown">Count Down</string>
     <string name="selectedOk">You selected Ok</string>
     <string name="selectedCancel">You selected Cancel</string>
-    <string name="selectedTks">You selected Thanks</string>
+    <string name="selectedTks">You selected Cancel Thanks</string>
     <string name="detailsText">Details Text</string>
     <string name="positiveButton">Ok</string>
     <string name="negativeButton">Cancel</string>
