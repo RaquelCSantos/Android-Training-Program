@@ -39,4 +39,6 @@
     <!-- Content Description -->
     <string name="description_logo">Application logo</string>
     <string name="description_image">Image of a dog</string>
+    <string name="startTimer">Start</string>
+    <string name="tv_counter">Counter</string>
 </resources>
