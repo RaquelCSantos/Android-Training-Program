@@ -18,6 +18,8 @@ import androidx.appcompat.app.AlertDialog
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
+import com.bumptech.glide.Glide
+import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.google.android.material.snackbar.Snackbar
 import java.io.File
 import java.net.URI
@@ -26,6 +28,8 @@ import java.net.URI
 private const val TAG = "MainActivity"
 private const val REQUEST_IMAGE_CAPTURE = 100
 private const val REQUEST_READ_STORAGE = 500
+private const val FIFI =
+    "https://github.com/android-training-program/aula-5/blob/master/imagens/fifi.jpg?raw=true"
 
 class MainActivity : AppCompatActivity() {
 
@@ -44,6 +48,9 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.open_details).setOnClickListener {
             openDetailsActivity()
         }
+        findViewById<Button>(R.id.open_list).setOnClickListener {
+            openListActivity()
+        }
 
         findViewById<Button>(R.id.show_dialog).setOnClickListener {
             showAppDialog()
@@ -55,6 +62,12 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.startTimer).setOnClickListener {
             startTimer()
         }
+        Glide.with(this)
+            .load(FIFI)
+            .diskCacheStrategy(DiskCacheStrategy.ALL)
+            .fitCenter()
+            .into(findViewById(R.id.imageView))
+
         val tvCounter = findViewById<TextView>(R.id.tv_counter)
         viewModel.timerLiveData.observe(this) { batatas ->
             tvCounter.text = batatas.toString()
@@ -89,6 +102,13 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
+    /**
+     * Calling this method will open a new activity.
+     */
+    private fun openListActivity() {
+        val intent = Intent(this, ListActivity::class.java)
+        startActivity(intent)
+    }
     /**
      * Calling this method will show a dialog.
      */
@@ -143,7 +163,7 @@ class MainActivity : AppCompatActivity() {
         grantResults: IntArray
     ) {
         if (requestCode == REQUEST_READ_STORAGE) {
-            if (permissions[0] == Manifest.permission.READ_EXTERNAL_STORAGE && grantResults[0] == PackageManager.PERMISSION_GRANTED){
+            if (permissions[0] == Manifest.permission.READ_EXTERNAL_STORAGE && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
                 startTimer()
             }
         } else {
@@ -169,8 +189,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun loadImage() {
         val file = File("/storage/emulated/0/Download/dog_PNG50256.png")
-       // file.readBytes()
-        val uri:Uri=Uri.fromFile(file)
+        // file.readBytes()
+        val uri: Uri = Uri.fromFile(file)
         val imageView = findViewById<ImageView>(R.id.imageView)
         imageView.setImageURI(uri)
     }

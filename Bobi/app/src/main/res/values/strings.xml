@@ -41,4 +41,5 @@
     <string name="description_image">Image of a dog</string>
     <string name="startTimer">Start</string>
     <string name="tv_counter">Counter</string>
+    <string name="open_list">Open List</string>
 </resources>
